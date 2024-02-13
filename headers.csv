@@ -1,0 +1,87 @@
+﻿headers
+(1)Entity
+(2)Year
+(3)Accidents (excl. road)  Deaths
+(4)Accidents (total)  - Deaths
+(5)Arteriosclerosis  - Deaths
+(6)Bronchitis  - Deaths
+(7)CancersDeaths
+(8)COPDDeaths
+(9)Dementia  - Deaths
+(10)Diabetes  - Deaths
+(11)Diarrheal disease  - Deaths
+(12)Heart disease  - Deaths
+(13)Homicide  - Deaths
+(14)Kidney infection  - Deaths
+(15)Liver disease  - Deaths
+(16)Neonatal disorders  - Deaths
+(17)Nephritis  - Deaths
+(18)Other causes  - Deaths
+(19)Pneumonia and influenza  - Deaths
+(20)Respiratory disease  - Deaths
+(21)Road accidents  - Deaths
+(22)Septicemia  - Deaths
+(23)Stroke  - Deaths
+(24)Suicide  - Deaths
+(25)Syphilis
+(26)Total deaths  - Deaths
+(27)Tuberculosis  - Deaths
+(28)Non-communicable diseases (NCDs)  - Deaths
+"(29)Communicable, infectious, neonatal and other deaths  - Deaths"
+(30)Accidents (excl. road) - Death Rates
+(31)Accidents (total) - Death Rates
+(32)Arteriosclerosis - Death Rates
+(33)Bronchitis - Death Rates
+(34)CancersDeath Rates
+(35)COPDDeath Rates
+(36)Dementia - Death Rates
+(37)DiabetesDeathRates
+(38)Diarrheal disease - Death Rates
+(39)Heart disease - Death Rates
+(40)Homicide - Death Rates
+(41)Kidney infection - Death Rates
+(42)Liver disease - Death Rates
+(43)Neonatal disorders - Death Rates
+(44)Nephritis - Death Rates
+(45)Other causes - Death Rates
+(46)Pneumonia and influenza - Death Rates
+(47)Respiratory disease - Death Rates
+(48)Road accidents - Death Rates
+(49)Septicemia - Death Rates
+(50)Stroke - Death Rates
+(51)Suicide - Death Rates
+(52)Syphilis - Death Rates
+(53)Total deaths - Death Rates
+(54)Tuberculosis - Death Rates
+(55)Non-communicableDeathRates
+"(56)Communicable, infectious, neonatal and other deaths - Death Rates"
+(57)Accidents (excl. road) - % of Deaths
+(58)Accidents (total) - % of Deaths
+(59)Arteriosclerosis - % of Deaths
+(60)Bronchitis - % of Deaths
+(61)Cancers%Deaths
+(62)COPD%Deaths
+(63)Dementia - % of Deaths
+(64)Diabetes%Deaths
+(65)Diarrheal disease - % of Deaths
+(66)Heart disease - % of Deaths
+(67)Homicide - % of Deaths
+(68)Kidney infection - % of Deaths
+(69)Liver disease - % of Deaths
+(70)Neonatal disorders - % of Deaths
+(71)Nephritis - % of Deaths
+(72)Other bronchopulmonic diseases - % of Deaths
+(73)Other causes - % of Deaths
+(74)Pneumonia and influenza - % of Deaths
+(75)Respiratory disease - % of Deaths
+(76)Road accidents - % of Deaths
+(77)Septicemia - % of Deaths
+(78)Stroke%Deaths
+(79)Suicide%Deaths
+(80)Syphilis%Deaths
+(81)Totaldeaths%Deaths
+(82)Tuberculosis%Deaths
+(83)Non-communicablediseases%Deaths
+(84)Communicable
+(85) infectious
+(86) neonatal and other deaths - % of Deaths
