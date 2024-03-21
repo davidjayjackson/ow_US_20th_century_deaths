@@ -1,0 +1,5 @@
+set title "Road Accident Deaths Over Time"
+set xlabel "Year"
+set ylabel "Number of Deaths"
+set datafile separator ","
+plot "data/us_causes_of_deaths.csv" using 2:14 with lines title "Road Accidents"
